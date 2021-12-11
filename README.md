@@ -49,3 +49,13 @@ With 5 years of experience in positions solely concerned with data analysis, 3 b
 
 
 Therein lies my basis for enrolling in this data-science program, to bring myself back to speed with the progress the external field of analytics has made since my undergraduate years. With knowledge of these more efficient tools I anticipate having more time to focus on problem solving and interpretation, and transferability with respect to careers.  
+
+
+### What's next?
+
+Being part of an organization where tangible impacts for the benefit of society is critical for me. My move away from medicine was informed by investment and time considerations surely, but predominantly due to inefficiencies and top-down motives pertaining to our particular health care system. Governmental work has provided me less of an assurance that my work is truly making a difference than I had hoped. Of course, public trust in government remains critically low, a trend that had already onset but a factor I did not consider when entering this field of work
+
+![""](https://www.pewresearch.org/wp-content/uploads/sites/4/2017/05/1.png)
+
+
+With the skills I've acquired I hope to utilize data science and GIS to inform macro-level decisions that enable a brighter future. I've broadened my understanding of health and now see fields such as agricultural sustainability and planning, natural disaster mitigation, and renewable energy development as key factors for the health of our society.
