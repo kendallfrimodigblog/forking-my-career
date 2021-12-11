@@ -1,7 +1,7 @@
 
 # Forking my Career
 
-Following Thanksgiving I enrolled in a 3 month, full time data science immersive program with General Assembly. What led me to this decision were the geographical, social, and governmental settings I have found myself in the past 3 years - and a look to the future of automation and roles private and governmental organizations may plan in such a future. Here I outline some of these factors but would like to start on a positive note first.
+Following Thanksgiving I enrolled in a 3 month, full time data science immersive program with General Assembly. What led me to this decision were the geographical, social, and governmental settings I have found myself in the past 3 years - and a look to the future of automation and roles private and governmental organizations may plan in such a future. Here I outline some of these factors
 
 
 ### Brief history
@@ -29,10 +29,23 @@ My education track was narrow with regards to the programming languages and visu
 
 As a result I have not been able to gain the professional development I have sought through my career, and often see examples from other professionals of how embracing open source platforms and machine learning could substantially enhance the impact of my work. One such example was my quest to find a better source for Air Quality data.
 
-In my first year I reviewed countless studies of modeling such data, many of which concluded or followed with quality analysis that indicated high variability between each effort, and was left frustrated that an effective method of using satellite data to estimate air quality had not properly been developed. Then I came to understand the workings of Breezometers["Breezometers"](https://en.wikipedia.org/wiki/The_Healing_of_America "") operation, whose data exists on all iPhones weather apps.
+In my first year I reviewed countless studies of modeling such data, many of which concluded or followed with quality analysis that indicated high variability between each effort, and was left frustrated that an effective method of using satellite data to estimate air quality had not properly been developed. Then I came to understand the workings of [Breezometers](https://www.breezometer.com/ "") operation, whose data exists on all iPhones weather apps.
 
-My initial thoughts were of grave concern, how could a private group with no publications in the field claim that they had broke through such a seemingly impossible task? And how could this information be in the pockets of millions without being vetted by the research community? That's when I came to understand the power of machine learning.
+![""](https://www.breezometer.com/_nuxt/img/45ea740.png)
 
-There are certain research questions us humans simply cannot solve alone, and what may require an entire lifetime of scientific inquiry can be automated in a relatively short period. A good analogy is the issue of protein folding, which has gathered more attention from the public as an unsurmountable question of science that is nearing an answer
+My initial thoughts were of grave concern, how could a private group with no publications in the field claim that they had broke through such a seemingly impossible task? And how could this information be in the pockets of 320 million people without being vetted by the research community? That's when I came to understand the power of machine learning.
 
-I have personally made a concerted effort to bring these tools into the fold of my work, but I have been hindered from a lack of mentors with such skills, and an IT department whom does not wish to embrace modern data architectures.
+There are certain research questions us humans simply cannot solve alone, and what may require an entire lifetime of scientific inquiry can be automated in a relatively short period. The breezometer reviews its own real-time predictions with 70,000 air quality monitors when they come in, and adjusts to correct for mistakes. Generating 1.8TB of data each hour!
+
+A good analogy is the issue of protein folding, which has gathered more attention from the public as an unsurmountable question of science that is nearing an answer
+
+I have personally made a concerted effort to bring these tools into the fold of my work, but I have been hindered from a lack of mentors with such skills, and an IT department whom does not wish to embrace modern data tools. Knowing self study could only take me so far while still working full time, I started to consider other options
+
+
+### Job search
+
+With 5 years of experience in positions solely concerned with data analysis, 3 being full-time positions, and a masters degree in a closely related discipline, I believed myself to be well prepared for a career in data-science. However, upon reviewing the hiring criteria for such opportunities, I came to understand how essential knowledge of Python, Warehousing, and Machine Learning were for me to qualify and confidently work these roles.
+
+
+
+Therein lies my basis for enrolling in this data-science program, to bring myself back to speed with the progress the external field of analytics has made since my undergraduate years. With knowledge of these more efficient tools I anticipate having more time to focus on problem solving and interpretation, and transferability with respect to careers.  
